@@ -31,6 +31,7 @@
 
 ## 모델 
 ### gpt-4o-mini
+### text-embedding-ada-002
 ### whisper-large-v3
 
 ## 서버
